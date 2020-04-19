@@ -1,4 +1,4 @@
 emacs
 =====
 
-_some sort of salvation from the mistakes of today_
+*some sort of salvation from the mistakes of today*
