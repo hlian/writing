@@ -12,7 +12,7 @@ This file, `doom-emacs/modules/lang/markdown/config.el <https://github.com/hliss
 
 (Markdown is an unextensible, but extremely popular, markup language, about which the best thing you can say is that there are a bunch of implementations, some of which agree with one another. Nothing in the way of directives (ReST) or macros (LaTeX) or elegance (Lisp), just a quick way to bold and italicize text.)
 
-But someone else did, or some _group_ else did, and I get to take advantage of it. All I hit is ``<leader> m p``, and I get a nice tab in my browser with Markdown compiled to HTML and all the code blocks syntax-highlighted.
+But someone else did, or some *group* else did, and I get to take advantage of it. All I hit is ``<leader> m p``, and I get a nice tab in my browser with Markdown compiled to HTML and all the code blocks syntax-highlighted.
 
 Thanks, Doom Emacs. I'm sorry I was so stubborn, all these years.
 
