@@ -1,7 +1,7 @@
 emacs
 =====
 
-.. code-block:: meta
+.. code-block::
 
    subtitle: some sort of salvation from the mistakes of today
 
