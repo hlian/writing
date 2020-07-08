@@ -1,7 +1,7 @@
 emacs
 =====
 
-.. code-block:: ruby
+.. code-block:: meta
 
    subtitle: some sort of salvation from the mistakes of today
 
