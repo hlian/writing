@@ -1,11 +1,10 @@
 learning react hooks by writing react hooks
 ===========================================
 
-----------------------------------
+.. code-block::
 
-*by react hook, or by react crook*
+   {"subtitle": "by react hook, or by react crook"}
 
-----------------------------------
 
 A React component does not know its own name, which can make things tricky. Sometimes, in a JSX expression, you will want to assign a unique identifier:
 
